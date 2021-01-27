@@ -1,0 +1,2 @@
+# jucy
+my first repository
